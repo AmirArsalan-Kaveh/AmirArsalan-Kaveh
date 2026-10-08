@@ -1,5 +1,8 @@
 # 👋Hi there , I'm AmirArsalan Kaveh 
-I am a **beginner** Programmer , I started Programming in **VisualStudio** with **C#** & ... .
+
+> ### The biggest risk is taking no risk.
+> ##### Mark Zuckerberg
+
 <p align="center">
   <a href="https://github.com/AmirArsalan-Kaveh#gh-light-mode-only">
     <img
