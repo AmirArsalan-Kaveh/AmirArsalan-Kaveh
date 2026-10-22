@@ -30,8 +30,8 @@
 #
 ##  🧑‍💻I'm Currently working on
 ###  Haavin
- - #### Employer : He/She prefer not to say
- - #### Project Type : Clothing Website
+ - #### Employer : No One
+ - #### Project Type : Gaming Shop
  - #### Developer : AmirArsalan Kaveh 
 
 #
